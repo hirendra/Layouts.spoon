@@ -69,3 +69,10 @@ For people using [Bunch](https://bunchapp.co/), once you've opened all the apps
 you need in a Bunch, you can invoke the URL to place the apps on the saved
 locations on your screens. 
 
+
+## Saving /Deleting Layouts
+
+You can save a layout by selecting the "Save Current Desktop Layout" menubar
+option
+
+Control clicking the layout will delete the layout. 
